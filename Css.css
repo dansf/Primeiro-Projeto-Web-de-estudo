@@ -1,0 +1,121 @@
+*{
+    border-radius: border-box;
+    text-decoration: none;
+}
+
+/* Lembrar de colocar a cor como glass */
+.conteinerTop{
+    background: rgb(0, 183, 255);
+    width: 1000px;
+    height: 150px;
+    color: white;
+    margin: 20px;
+    padding: 0 25px;
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+/* Meio da imagem */
+.conteinerMiddle{
+    background-color: rgb(0, 89, 255);
+    width: 1050px;
+    height: 290px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.transparent{
+    float: left;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    width: 92%;
+    height: 60px;
+    padding: 0 20px;
+    margin: 0 20px;
+}
+
+.green{
+    float: left;
+    background-color: rgb(12, 233, 12);
+    color: white;
+    width: 100px;
+    height: 160px;
+    margin: 20px;
+    padding: 0 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.pink{
+    background-color: pink;
+    color: white;
+    float: left;
+    width: 800px;
+    height: 70px;
+    margin: 20px;
+    padding: 0 20px;
+    border-radius: 20px;
+}
+
+.conteinerMiddleBotttom{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.yellow{
+    background-color: yellow;
+    float: left;
+    width: 200px; 
+    height: 70px;
+    margin: 0 27px;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+
+.red{
+    background-color: red;
+    float: left;
+    width: 200px; 
+    height: 70px;
+    margin: 0 27px;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+
+.blackgreen{
+    background-color: green;
+    float: left;
+    width: 200px; 
+    height: 70px;
+    margin: 0 27px;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+
+/* Fim do site */
+.conteinerBottom{
+    margin: 20px;
+}
+
+.brown{
+    background-color: rgb(66, 31, 31);
+    color: white;
+    text-align: center;
+    width: 1050px;
+    height: 90px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.blackblue{
+    background-color: rgb(8, 8, 146);
+    color: white;
+    text-align: center;
+    width: 1050px;
+    height: 100px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
